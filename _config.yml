@@ -5,6 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Pondera Lab SC, empresa mexicana de consultoría de ciencia de datos aplicada.
 baseurl: "" # the subpath of your site, e.g. /blog/
 # url: "http://yourdomain.com" # the base hostname & protocol for your site
+remote_theme: Devoll
 twitter_username: ponderalab
 github_username:  ponderalab
 
